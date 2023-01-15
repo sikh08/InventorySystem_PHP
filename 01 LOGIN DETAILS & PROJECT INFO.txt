@@ -1,0 +1,34 @@
+**Database Name: inventory_system**
+
+**Developed by Siamon Hasan**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 1234
+
+Username: ivan
+Password: 123
+
+**Special User Login Details**
+
+Username: special
+Password: special
+
+**User(Employee) Login Details**
+
+Username: user
+Password: user 
+
+--------------------consultas-------------------
+
+productos con mayor cantidad(stock)
+productos con menor cantidad(stock)
+productos con precio compra entre 1000 y 2000
+productos con precio venta mayores a 18000
+productos con fecha entre 20220808 y 20220710
+productos mas recientes
+productos con menor precio de venta
